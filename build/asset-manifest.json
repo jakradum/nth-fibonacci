@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jakradum/nth-fibonacci/static/css/main.9d61af04.css",
+    "main.js": "/jakradum/nth-fibonacci/static/js/main.f67a12da.js",
+    "static/js/787.b9dba12a.chunk.js": "/jakradum/nth-fibonacci/static/js/787.b9dba12a.chunk.js",
+    "static/media/logo.svg": "/jakradum/nth-fibonacci/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jakradum/nth-fibonacci/index.html",
+    "main.9d61af04.css.map": "/jakradum/nth-fibonacci/static/css/main.9d61af04.css.map",
+    "main.f67a12da.js.map": "/jakradum/nth-fibonacci/static/js/main.f67a12da.js.map",
+    "787.b9dba12a.chunk.js.map": "/jakradum/nth-fibonacci/static/js/787.b9dba12a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d61af04.css",
+    "static/js/main.f67a12da.js"
+  ]
+}
